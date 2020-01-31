@@ -1,0 +1,14 @@
+/* This is a comment!*/
+
+body {
+    background-color: plum;
+}
+
+p {
+    font-family: 'Courier New', Courier, monospace;
+    color: pink;
+    font-size: x-large;
+    font-weight: bold;
+    font-style: italic;
+    text-align: center;
+}
